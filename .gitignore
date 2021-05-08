@@ -1,0 +1,10 @@
+__pycache__/
+.ipynb_checkpoints/
+n*.txt
+key.txt
+*.ipynb
+*.part
+.f137
+.f140
+.mp4
+
